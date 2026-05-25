@@ -1,60 +1,53 @@
-# Smart Flashcard Generator
+<h1 align="center">📚 Smart Flashcard Generator</h1>
 
-An AI-powered flashcard generation system designed to simplify learning through intelligent content processing and automated flashcard creation.
-
----
-
-## Features
-
-* Automated flashcard generation
-* Intelligent text processing
-* Lightweight and easy-to-use workflow
-* Python-based implementation
-* Educational productivity enhancement
+<p align="center">
+AI-powered flashcard generation system designed to simplify learning through intelligent content processing and automated study workflows.
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 Overview
 
-* Python
-* NLP Concepts
-* Automation Workflows
-
----
-
-## Project Goal
-
-This project was built to automate the process of creating study flashcards and improve learning efficiency through smart content organization.
+Smart Flashcard Generator is an AI-powered educational productivity tool that automatically converts learning content into interactive flashcards.  
+The project focuses on improving study efficiency using intelligent text processing and automation workflows.
 
 ---
 
-## Future Improvements
+## ✨ Features
 
-* AI summarization integration
-* PDF and document support
-* Web-based interface
-* Database integration
-* Personalized learning workflows
+- 🧠 Automated flashcard generation
+- 📄 Intelligent text processing
+- ⚡ Lightweight and fast workflow
+- 🐍 Python-based implementation
+- 📚 Learning productivity enhancement
+- 🤖 AI-assisted study support
 
 ---
 
-## Project Structure
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+</p>
+
+### Technologies Used
+- Python
+- NLP Concepts
+- Automation Workflows
+- Streamlit (if used)
+- Transformers / AI Models (if used)
+
+---
+
+## 📂 Project Structure
 
 ```bash
 Smart-Flashcard-Generator/
 │
-├── assets/
 ├── src/
 │   ├── app.py
 │   └── flashcard_core.py
 │
-├── README.md
 ├── requirements.txt
+├── README.md
 └── .gitignore
-```
-
----
-
-## Author
-
-Sanskar Vaibhav
